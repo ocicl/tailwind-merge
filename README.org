@@ -1,0 +1,10 @@
+* tailwind-merge
+
+Utility library to merge Tailwind CSS classes without style conflicts
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/40ants/tailwind-merge.git      |
+| commit  | c02100c                                                |
+| systems | tailwind-merge                                         |
+|---------+--------------------------------------------------------|
+
